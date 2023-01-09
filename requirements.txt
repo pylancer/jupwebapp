@@ -91,7 +91,7 @@ python-dateutil
 pytz
 #pyviz-comms
 #pywin32
-pywinpty
+#pywinpty
 pyzmq
 qtconsole
 regex
