@@ -1,6 +1,6 @@
 anyio==3.5.0
 argon2-cffi==21.3.0
-argon2-cffi-bindings==21.2.0
+#argon2-cffi-bindings==21.2.0
 asttokens==2.0.5
 attrs==22.1.0
 autoviz==0.1.36
