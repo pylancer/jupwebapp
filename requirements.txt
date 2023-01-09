@@ -115,7 +115,6 @@ websocket-client==0.58.0
 websockets==10.4
 wheel==0.37.1
 widgetsnbextension==4.0.5
-xarray==2022.3.0
 xgboost==1.5.2
 zipp==3.11.0
 ipykernel==6.19.2
@@ -123,5 +122,6 @@ ipython==8.7.0
 jupyter_core==5.1.1
 pywinpty==2.0.2
 wincertstore==0.2
+xarray==2022.3.0
 pywin32==305.1
 terminado==0.17.1
