@@ -99,7 +99,7 @@ sniffio==1.2.0
 soupsieve==2.3.2.post1
 squarify==0.4.3
 stack-data==0.2.0
-statsmodels==0.13.2
+statsmodels
 strsimpy==0.2.1
 tensorflow-estimator==2.3.0
 textblob==0.17.1
