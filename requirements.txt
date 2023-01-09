@@ -87,7 +87,6 @@ pyrsistent==0.18.0
 python-dateutil==2.8.2
 pytz==2022.7
 pyviz-comms==2.1.0
-pywin32==305.1
 pyzmq==23.2.0
 qtconsole==5.2.2
 regex==2022.3.2
@@ -103,7 +102,6 @@ stack-data==0.2.0
 statsmodels==0.13.2
 strsimpy==0.2.1
 tensorflow-estimator==2.3.0
-terminado==0.17.1
 textblob==0.17.1
 tinycss2==1.2.1
 tornado==6.2
@@ -125,3 +123,5 @@ ipython==8.7.0
 jupyter_core==5.1.1
 pywinpty==2.0.2
 wincertstore==0.2
+pywin32==305.1
+terminado==0.17.1
