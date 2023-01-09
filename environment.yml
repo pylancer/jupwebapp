@@ -1,0 +1,7 @@
+name: jupwebapp
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - notebook
+prefix: C:\Users\rahul\.conda\envs\jupwebapp
