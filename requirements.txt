@@ -89,8 +89,8 @@ pyparsing
 pyrsistent
 python-dateutil
 pytz
-pyviz-comms
-pywin32
+#pyviz-comms
+#pywin32
 pywinpty
 pyzmq
 qtconsole
@@ -107,7 +107,7 @@ stack-data
 statsmodels
 strsimpy
 tensorflow-estimator
-terminado
+#terminado
 textblob
 tinycss2
 tornado
