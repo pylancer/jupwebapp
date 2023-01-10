@@ -36,7 +36,7 @@ gast==0.3.3
 #idna==3.4
 #importlib-metadata==6.0.0
 #importlib-resources==5.2.0
-holoviews
+#holoviews
 #hvplot
 #idna
 importlib-metadata
