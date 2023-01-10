@@ -38,7 +38,7 @@ gast==0.3.3
 #importlib-resources==5.2.0
 holoviews
 hvplot
-idna
+#idna
 importlib-metadata
 importlib-resources
 ipykernel==6.19.2
