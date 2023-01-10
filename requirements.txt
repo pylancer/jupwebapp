@@ -22,7 +22,7 @@ dash-daq
 debugpy
 decorator
 defusedxml
-dtale
+#dtale
 emoji
 entrypoints
 executing
