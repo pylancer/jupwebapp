@@ -68,7 +68,7 @@ nltk
 notebook
 notebook_shim
 numpy
-ortools
+#ortools
 packaging
 pandas
 pandocfilters
