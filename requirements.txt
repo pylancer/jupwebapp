@@ -67,8 +67,10 @@ nest-asyncio
 nltk
 notebook
 notebook_shim
+numpy
 ortools
 packaging
+pandas
 pandocfilters
 panel
 param
@@ -89,9 +91,9 @@ pyparsing
 pyrsistent
 python-dateutil
 pytz
-#pyviz-comms
+pyviz-comms
 #pywin32
-#pywinpty
+pywinpty
 pyzmq
 qtconsole
 regex
