@@ -35,7 +35,8 @@ holoviews==1.14.6
 hvplot==0.7.3
 idna==3.4
 importlib-metadata==6.0.0
-importlib-resources==5.2.0
+#importlib-resources==5.2.0
+importlib-resources
 ipykernel==6.19.2
 ipython==8.7.0
 ipython-genutils==0.2.0
