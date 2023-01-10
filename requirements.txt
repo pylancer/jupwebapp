@@ -39,8 +39,8 @@ gast==0.3.3
 #holoviews
 #hvplot
 #idna
-importlib-metadata
-importlib-resources
+#importlib-metadata
+#importlib-resources
 ipykernel==6.19.2
 ipython==8.7.0
 ipython-genutils==0.2.0
